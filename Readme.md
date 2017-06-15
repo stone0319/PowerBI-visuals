@@ -65,6 +65,7 @@ In this tutorial, you will be building a simple bar chart. The source code is lo
     * [Handling Selection in Visuals](Visual/Selection.md)
     * [Adding Tooltips to Visuals](Visual/Tooltips.md)
     * [Localizing Visuals](Visual/Locale.md)
+    * [Applying filters](https://github.com/Microsoft/powerbi-visuals-sampleslicer/blob/master/doc/UsingAdvancedFilterAPI.md)
 * [Mobile development guideline](Tutorial/MobileGuideline.md)
 * [PowerBI Glossary](Glossary.md)
 * [Change Log](ChangeLog.md)
