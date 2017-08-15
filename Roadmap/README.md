@@ -6,6 +6,7 @@ This page contains a list upcoming features. Feel free to suggest features via t
 
 ## API Version 2.0
 * AAD Authentication support
+* gradient color support
 
 ## API Version 1.9
 * Refresh report
